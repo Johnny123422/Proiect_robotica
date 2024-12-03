@@ -13,8 +13,8 @@ Mobility: Powered by four motors, the robot has wheels for smooth movement.
 ## Components Used
 Arduino Board: Main controller for processing commands and driving the motors.
 4 DC Motors: Provide movement for the robot.
-Motor Driver Module (L298N or similar): Controls motor speed and direction.
-Bluetooth Module (HC-05/HC-06): Facilitates wireless communication.
+Motor Driver Module : Controls motor speed and direction.
+Bluetooth Module: Facilitates wireless communication.
 Obstacle Sensor (e.g., Ultrasonic or IR): Detects obstacles for autonomous mode.
 Battery Pack: Supplies power to all components.
 Chassis and Wheels: Physical structure of the robot.
