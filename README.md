@@ -47,5 +47,5 @@ Responds to Bluetooth commands in real-time.
 Avoids obstacles autonomously using the installed sensors.
 Operates smoothly in both modes with seamless transitions.
 # Conclusions
-This project demonstrates the integration of hardware and software in a functional robotic system. It can serve as a foundation for more advanced robotic applications, such as maze-solving robots or AI-driven navigation systems.
+ It can successfully navigate through obstacles and can be adapted to solve mazes, making it a great tool for educational purposes and hobby projects. Furthermore, its design serves as an excellent starting point for developing more advanced robots, such as smart vacuum cleaners or autonomous delivery systems.
 
