@@ -26,6 +26,19 @@ Supplies power to all components.
 ### Chassis and Wheels: 
 Physical structure of the robot.
 
+
+| Component | Quantity | Description | Link/Datasheet |
+| --- | --- | --- | --- |
+| Arduino Uno | 1 | Microcontroller for main control | |
+| DC Motors | 4 | 6V DC motors for robot movement | | 
+| Motor Driver (L293D) | 1 | motor control | | 
+| Bluetooth Module | 1 | wireless control | | 
+| Ultrasonic Sensor(HC-SR04) | 1 |  for obstacle detection | | 
+| Servo Motor | 1 | for sensor positioning | | 
+| Battery Pack| 1 | 6V supply for robot power | | 
+
+
+
 # Software Design
 ## Features
 ## Bluetooth Control Mode:
