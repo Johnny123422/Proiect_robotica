@@ -26,6 +26,9 @@ Supplies power to all components.
 ### Chassis and Wheels: 
 Physical structure of the robot.
 
+# Block diagram
+![diagrama block](https://github.com/user-attachments/assets/8a34a1ad-a723-4d13-a826-3059217bc1bf)
+
 
 | Component | Quantity | Description | Link/Datasheet |
 | --- | --- | --- | --- |
