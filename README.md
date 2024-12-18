@@ -32,12 +32,12 @@ Physical structure of the robot.
 
 | Component | Quantity | Description | Link/Datasheet |
 | --- | --- | --- | --- |
-| Arduino Uno | 1 | Microcontroller for main control | |
-| DC Motors | 4 | 6V DC motors for robot movement | | 
-| Motor Driver (L293D) | 1 | motor control | | 
-| Bluetooth Module | 1 | wireless control | | 
-| Ultrasonic Sensor(HC-SR04) | 1 |  for obstacle detection | | 
-| Servo Motor | 1 | for sensor positioning | | 
+| Arduino Uno | 1 | Microcontroller for main control |[Arduino Uno ] (https://docs.arduino.cc/hardware/uno-rev3/) |
+| DC Motors | 4 | 6V DC motors for robot movement | [DC Motors] (https://www.contact-evolution.ch/files/DC_motors.pdf) | 
+| Motor Driver (L293D) | 1 | motor control |[Motor Driver (L293D)] (https://www.alldatasheet.com/view.jsp?Searchword=L293d%20datasheet&gad_source=1&gclid=CjwKCAiAgoq7BhBxEiwAVcW0LB3BW3rR4wXACkna_W92lFrL_49D-PYOrUpoYvx45-kNx5xpSzOgXRoCAKAQAvD_BwE) | 
+| Bluetooth Module | 1 | wireless control | [Bluetooth Module] (https://www.electronicwings.com/sensors-modules/bluetooth-module-hc-05-) | 
+| Ultrasonic Sensor(HC-SR04) | 1 |  for obstacle detection | [Ultrasonic Sensor ] (https://www.alldatasheet.com/view.jsp?Searchword=Hcsr04%20datasheet&gad_source=1&gclid=CjwKCAiAgoq7BhBxEiwAVcW0LNM13Y2I3MZllnghP2lJDl3hzTrROSy3NxhPAs9rYz3OBykpnaPe7hoCtQMQAvD_BwE) | 
+| Servo Motor | 1 | for sensor positioning | [Servo Motor] (http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf) | 
 | Battery Pack| 1 | 6V supply for robot power | | 
 
 # Hardware Functionality
