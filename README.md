@@ -32,7 +32,7 @@ Physical structure of the robot.
 
 | Component | Quantity | Description | Link/Datasheet |
 | --- | --- | --- | --- |
-| Arduino Uno | 1 | Microcontroller for main control |[Arduino Uno ] (https://docs.arduino.cc/hardware/uno-rev3/) |
+| Arduino Uno | 1 | Microcontroller for main control |<a>[Arduino Uno ] </a>[Arduino Uno ] (https://docs.arduino.cc/hardware/uno-rev3/) |
 | DC Motors | 4 | 6V DC motors for robot movement | [DC Motors] (https://www.contact-evolution.ch/files/DC_motors.pdf) | 
 | Motor Driver (L293D) | 1 | motor control |[Motor Driver (L293D)] (https://www.alldatasheet.com/view.jsp?Searchword=L293d%20datasheet&gad_source=1&gclid=CjwKCAiAgoq7BhBxEiwAVcW0LB3BW3rR4wXACkna_W92lFrL_49D-PYOrUpoYvx45-kNx5xpSzOgXRoCAKAQAvD_BwE) | 
 | Bluetooth Module | 1 | wireless control | [Bluetooth Module] (https://www.electronicwings.com/sensors-modules/bluetooth-module-hc-05-) | 
