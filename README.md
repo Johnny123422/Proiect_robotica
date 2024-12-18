@@ -40,7 +40,34 @@ Physical structure of the robot.
 | Servo Motor | 1 | for sensor positioning | | 
 | Battery Pack| 1 | 6V supply for robot power | | 
 
+# Hardware Functionality
+## Components and Interfaces
+### Arduino Uno/Nano:
 
+Central controller.
+Interfaces:
+Digital pins for motor driver, Bluetooth, and sensor communication.
+Power pins for sensors and modules.
+### Bluetooth Module (HC-05/HC-06):
+
+Interface: UART communication (TX and RX pins).
+Use: Receives commands from the smartphone.
+### Motor Driver (L293D):
+
+Interface: PWM signals from Arduino to control motor speed and direction.
+Power: Connected to external battery for higher current output.
+DC Motors:
+
+### Driven by the motor driver.
+Connected to the wheels for movement.
+Ultrasonic Sensor (HC-SR04):
+
+Interface: Trigger and Echo pins connected to Arduino A1 and A0 pins.
+Use: Measures distance to obstacles for autonomous mode.
+Battery Pack:
+
+# Images and Proof of Functionality
+![proof](https://github.com/user-attachments/assets/34524e55-052d-470f-8390-4df0902e23ea)
 
 # Software Design
 ## Features
