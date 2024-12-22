@@ -27,7 +27,8 @@ Supplies power to all components.
 Physical structure of the robot.
 
 # Block diagram
-![diagrama block](https://github.com/user-attachments/assets/8a34a1ad-a723-4d13-a826-3059217bc1bf)
+![Screenshot 2024-12-22 145159](https://github.com/user-attachments/assets/1645c206-7a4f-484f-a560-dbcd27e254bc)
+
 
 
 | Component | Quantity | Description | Link/Datasheet |
