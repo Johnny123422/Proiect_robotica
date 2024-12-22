@@ -40,6 +40,10 @@ Physical structure of the robot.
 | Servo Motor | 1 | for sensor positioning |  (http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf) | 
 | Battery Pack| 1 | 6V supply for robot power | | 
 
+# Electrical Schematic
+![Screenshot 2024-12-22 144215](https://github.com/user-attachments/assets/6b1739d0-1a91-433e-bb48-43fc79e10129)
+
+
 # Hardware Functionality
 ## Components and Interfaces
 ### Arduino Uno/Nano:
