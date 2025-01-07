@@ -56,6 +56,14 @@ The avoid_obstacle() function decides whether to move forward or avoid an obstac
 ### Validation: 
 The software was validated through real-world testing, where the robot successfully navigated an obstacle-filled environment.
 
+# Calibration of Sensors and Components
+### Ultrasonic Sensor Calibration:
+Sensor readings were cross-verified with a ruler to adjust the conversion formula for time to distance in centimeters.
+The delay in the ultrasonic() function was fine-tuned to minimize signal noise.
+### Servo Motor Calibration:
+The center position (spoint) was adjusted to 85° to align the sensor with the robot’s forward direction.
+### DC Motor Calibration:
+Speed parameters (Speed and Speed_Cot) were calibrated to ensure stable and consistent movement.
 
 # Hardware Design
 ## Components Used
