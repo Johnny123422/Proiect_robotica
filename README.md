@@ -65,6 +65,13 @@ The center position (spoint) was adjusted to 85° to align the sensor with the r
 ### DC Motor Calibration:
 Speed parameters (Speed and Speed_Cot) were calibrated to ensure stable and consistent movement.
 
+# Optimizations Made
+### Avoiding Code Blocking: 
+Replaced unnecessary delay() calls with well-defined cycles to reduce latency (can be further optimized with non-blocking methods).
+### Function Simplification: 
+Refactored motor control functions for simplicity and readability.
+Differentiated Motor Speeds: Set separate speeds for front and rear motors to enhance performance during directional changes.
+
 # Hardware Design
 ## Components Used
 ### Arduino Board:
