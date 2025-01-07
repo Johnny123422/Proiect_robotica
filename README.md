@@ -9,6 +9,20 @@ Autonomous Navigation: Using sensors, the robot detects and avoids obstacles.
 Mobility: Powered by four motors, the robot has wheels for smooth movement.
 
 
+# Current State of Software Implementation
+The project is functional and includes:
+
+### Ultrasonic Sensor: 
+Used to measure the distance to obstacles.
+### Servo Motor: 
+Redirects the ultrasonic sensor to measure distances on the left and right sides.
+### DC Motors:  
+Controlled via the AFMotor library to ensure smooth movement of the robot.
+### Obstacle Avoidance Algorithm:  
+Detects obstacles and decides the optimal avoidance direction (left or right) based on measured distances.
+Software validation was performed through tests on actual hardware.
+
+
 # Hardware Design
 ## Components Used
 ### Arduino Board:
