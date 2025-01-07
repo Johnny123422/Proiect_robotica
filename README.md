@@ -44,6 +44,18 @@ Lab practices for motor control were directly applied here to achieve complex mo
 ### Serial Communication: 
 Used for debugging and monitoring real-time distance measurements.
 
+# Project Structure, Interaction of Functionalities, and Validation
+Distance Measurement Module:
+### The ultrasonic() function measures distance using the HC-SR04 sensor.
+leftsee() and rightsee() functions use the servo motor to direct the ultrasonic sensor for lateral measurements.
+### Motor Control Module:
+Functions like forward(), backward(), left(), and right() handle robot movement.
+The Stop() function stops all motors.
+### Obstacle Avoidance Algorithm:
+The avoid_obstacle() function decides whether to move forward or avoid an obstacle by turning left or right.
+### Validation: 
+The software was validated through real-world testing, where the robot successfully navigated an obstacle-filled environment.
+
 
 # Hardware Design
 ## Components Used
