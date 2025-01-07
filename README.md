@@ -22,6 +22,15 @@ Controlled via the AFMotor library to ensure smooth movement of the robot.
 Detects obstacles and decides the optimal avoidance direction (left or right) based on measured distances.
 Software validation was performed through tests on actual hardware.
 
+# Motivation for Library Choices
+### <Servo.h>: 
+Simplifies control of the servo motor, which is used for directing the ultrasonic sensor.
+### <AFMotor.h>: 
+A specific library for controlling DC motors through the Adafruit Motor Shield, providing an easy-to-use interface for managing speed and direction.
+### <Arduino.h>: 
+Includes standard Arduino functions for manipulating digital and analog pins.
+These libraries were chosen due to their compatibility with the hardware and the ease they bring to the implementation process.
+
 
 # Hardware Design
 ## Components Used
