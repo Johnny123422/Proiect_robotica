@@ -31,6 +31,19 @@ A specific library for controlling DC motors through the Adafruit Motor Shield, 
 Includes standard Arduino functions for manipulating digital and analog pins.
 These libraries were chosen due to their compatibility with the hardware and the ease they bring to the implementation process.
 
+# Novelty of the Project
+Intelligent Obstacle Avoidance: The robot determines the optimal avoidance direction (left or right) based on measured distances.
+Integration of Multiple Motors: The project uses 8 DC motors, which are controlled simultaneously for complex mobility.
+Modular Algorithm Design: Functionalities are implemented in separate modules (e.g., obstacle avoidance, distance measurement, movement), allowing for easy scalability.
+
+# Justification for Using Lab Functionalities
+### Ultrasonic Sensor Control: 
+The HC-SR04 sensor is used to measure distances, implemented with custom trigger and reading functions.
+### Servo and DC Motors: 
+Lab practices for motor control were directly applied here to achieve complex movement patterns.
+### Serial Communication: 
+Used for debugging and monitoring real-time distance measurements.
+
 
 # Hardware Design
 ## Components Used
