@@ -72,6 +72,8 @@ Replaced unnecessary delay() calls with well-defined cycles to reduce latency (c
 Refactored motor control functions for simplicity and readability.
 Differentiated Motor Speeds: Set separate speeds for front and rear motors to enhance performance during directional changes.
 
+https://youtube.com/shorts/2Nr0Zt_E-I8?feature=share
+
 # Hardware Design
 ## Components Used
 ### Arduino Board:
